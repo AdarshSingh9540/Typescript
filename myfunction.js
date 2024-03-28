@@ -5,4 +5,4 @@ function myfunc(name, password) {
     };
 }
 const res = myfunc("Adarsh", "adsrh9540");
-console.log(res);
+console.log(res.name);
